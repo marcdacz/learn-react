@@ -3,7 +3,7 @@ import React from 'react';
 function MainComponent() {
   return (
     <div>
-      <main>Main Component</main>
+      <main className="main">Main Component</main>
     </div>
   );
 }
